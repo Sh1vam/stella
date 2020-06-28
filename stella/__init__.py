@@ -23,7 +23,7 @@ load_dotenv("config.env")
 
 # Check if the config was edited by using the already used variable
 CONFIG_CHECK = os.environ.get(
-    "___________PLOX_______REMOVE_____THIS_____LINE__________", None)
+    "", None)
 
 if CONFIG_CHECK:
     LOGS.error("Please remove the line mentioned in the first \
