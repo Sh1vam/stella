@@ -16,11 +16,9 @@ Can be found on telegram as [Stella](https:telegram.dog/MissStella_bot)
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older python versions! This is because markdown parsing is done by iterating through a dict, which are ordered by default in 3.6.
 
 ## Configuration
-Remove this line first before doing anything else
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROHackerr/stella)
 
-`___________PLOX_______REMOVE_____THIS_____LINE__________=True`
 # Required
 - `API_KEY`: Your bot token.
 
@@ -102,3 +100,5 @@ repeat for your username, password, hostname (localhost?), port (5432?), and db 
 [@corsicanu](https://github.com/corsicanu) (for welcome module)
 
 [@MrYacha](https://github.com/MrYacha) (for Feds module)
+[@strange552](https://github.com/strange552) (for creating app josn which did't worked)
+[@Sh1vam](https://github.com/Sh1vam) (for creating CORRENCTING AND COMMITING , THANKS DUDE)
