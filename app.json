@@ -25,7 +25,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations.",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://www.paypal.me/lllllll"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
@@ -111,8 +111,8 @@
       "weeb",
       "group",
       "manager",
-      "Saitama"
+      "STELLA"
    ],
-   "name": "Saitama Robot",
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot"
+   "name": "STELLA",
+   "repository": "https://github.com/PROHackerr/stella"
 }
