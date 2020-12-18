@@ -18,6 +18,8 @@ Please make sure to use python3.6, as I cannot guarantee everything will work as
 ## Configuration
 Remove this line first before doing anything else
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRO-Hackerr/Manager)
+
 `___________PLOX_______REMOVE_____THIS_____LINE__________=True`
 # Required
 - `API_KEY`: Your bot token.
