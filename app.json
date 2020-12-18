@@ -3,7 +3,8 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-      },
+      }
+     },
    "description": "An Anime themed Telegram group management bot.",
    "env": {
       "ALLOW_EXCL": {
